@@ -8,7 +8,6 @@ public class Shubham1Application
 {	
 	public static void main(String[] args) throws JMSException 
 	{
-		System.out.println("Welcome");
 		System.out.println("Enter your message");
 		Scanner sc = new Scanner(System.in);
 		String text = sc.nextLine();
